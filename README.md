@@ -11,3 +11,7 @@ pip install requests beautifulsoup4
 ```Bash
 pip install nest_asyncio python-telegram-bot requests beautifulsoup4
 ```
+## Disclaimer  
+**This program is not officially developed by NSCC (Nova Scotia Community College). I am not responsible for any accidents or life-threatening situations caused by using this script!**
+
+<span style="color: red;">this is red</span>
