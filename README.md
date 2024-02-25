@@ -7,7 +7,7 @@ Install dependencies if this is your first time using.
 ```Bash
 pip install requests beautifulsoup4
 ```
-**Telegram_Bot (NSCC_Job_Hunting_Assistant_Telegram_Bot.py)**:
+**Telegram Bot (NSCC_Job_Hunting_Assistant_Telegram_Bot.py)**:
 ```Bash
 pip install nest_asyncio python-telegram-bot requests beautifulsoup4
 ```
