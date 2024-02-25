@@ -2,4 +2,11 @@
 A Python script that automatically scrapes the Nova Scotia Community College (NSCC) recruitment website (local version + Telegram bot version).
 
 ## How To Use?
-Install dependencies if this is your first time using
+Install dependencies if this is your first time using.  
+Python Native:  
+```Bash
+pip install requests beautifulsoup4
+
+
+
+
