@@ -73,7 +73,7 @@ async def monitor_specific_jobs(update: Update, context: ContextTypes.DEFAULT_TY
                 await update.message.reply_text("No matching jobs found at this moment.")
 
             print("Monitoring... waiting for next check.")
-            await asyncio.sleep(3600)  # Pause for 10 seconds to wait for possible cancel events
+            await asyncio.sleep(3600)  # Latest data from website every 30 minutes
 
     monitor_task = asyncio.create_task(monitor())
 
