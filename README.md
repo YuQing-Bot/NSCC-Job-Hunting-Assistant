@@ -6,7 +6,3 @@ Install dependencies if this is your first time using.
 Python Native:  
 ```Bash
 pip install requests beautifulsoup4
-
-
-
-
