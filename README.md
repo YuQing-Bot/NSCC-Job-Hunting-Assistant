@@ -1,4 +1,5 @@
-# NSCC-Job-Hunting-Assistant
+# NSCC Job Hunting Assistant  
+## What's this?
 A Python script that automatically scrapes the Nova Scotia Community College (NSCC) recruitment website (local version + Telegram bot version).
 
 ## How To Use?
